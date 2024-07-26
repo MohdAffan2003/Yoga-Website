@@ -494,7 +494,7 @@ button:hover {
 @media (max-width:1000px) {
 
     nav li {
-        padding-right: 0;
+        padding-right: 20px;
     }
 
     .hideonMobile {
